@@ -1,0 +1,14 @@
+{
+  "network": "phonchain-mainnet",
+  "ticker": "PHC",
+  "genesis": {
+    "index": 0,
+    "hash": "c098fa5e985edd56634af262975b771f0dadc607494d6875cb725f1006611658",
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp_utc": "2025-10-09T08:53:20Z",
+    "difficulty_zeros": 3,
+    "reward_raw": 0,
+    "tx_count": 0,
+    "heartbeats": 0
+  }
+}
