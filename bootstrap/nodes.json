@@ -1,0 +1,26 @@
+{
+  "network": "phonchain-mainnet",
+  "protocol": "PoP-S4.1",
+  "genesis_hash": "c098fa5e985edd56634af262975b771f0dadc607494d6875cb725f1006611658",
+  "min_client_version": "1.0.0",
+  "nodes": [
+    {
+      "url": "https://api.phonchain.org",
+      "role": "api",
+      "region": "EU",
+      "priority": 1
+    },
+    {
+      "url": "https://seed2.phonchain.org",
+      "role": "gateway",
+      "region": "EU",
+      "priority": 2
+    },
+    {
+      "url": "https://explorer.phonchain.org",
+      "role": "explorer",
+      "region": "EU",
+      "priority": 3
+    }
+  ]
+}
